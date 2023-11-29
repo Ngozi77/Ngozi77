@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ngozi77
-- 👀 I’m interested in full stack software engineer 
-- 🌱 I’m currently learning back-end and front-end 
+- 👀 I’m interested in Cloud Enginner 
+- 🌱 I’m currently learning AWS, Linux, Python, C#, and SQL
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me on linkedIn 
 
